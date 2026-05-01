@@ -2,9 +2,12 @@
 
 # Server Requirements
 
+(supported-os)=
+
 ## Operating System
 
-We require Debian 11+ or Ubuntu 22.04+ as the base operating system for your server.
+The Littlest JupyterHub (TLJH) aims to support Debian and Ubuntu versions that have current Long-Term Support (LTS), on amd64 or arm64 CPU architectures.
+Other Linux distributions are not supported.
 
 ## Root access
 
